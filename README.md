@@ -7,10 +7,8 @@ We are developing Algorithms and Data Structures' exercises to help people aroun
  - Hard Level;
  - Refactoring Level.
 
-Look for all levels of exercises:
-
 To contribute to this project, create a PR. If tested and approved, your code will be inserted!
 
-*This project is created for Hacktober Fest 2020. [Read more](https://hacktoberfest.digitalocean.com/)*
+*This project is created for Hacktober Fest 2022. [Read more](https://hacktoberfest.com/)*
 
-![Hacktober Fest 2020](https://miro.medium.com/max/3200/1*O3MG49UiyzNvQrY9qpmFpA.png)
+![Hacktober Fest 2022](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
