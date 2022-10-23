@@ -7,6 +7,8 @@ __pycache__/
 
 .pytest_cache
 __pycache__
+algorithms/exercicies/__pycache__/
+algorithms/test/__pycache__/
 
 # Distribution / packaging
 .Python
@@ -26,3 +28,4 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pyc
