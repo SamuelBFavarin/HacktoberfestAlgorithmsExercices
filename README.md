@@ -26,7 +26,7 @@ The event aims to contribute to Open Source projects, and although mostly devs c
 
 ![Hacktober Fest 2022](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
-## Contributors:
+## Contributors 🙌
 
 <a href="https://github.com/SamuelBFavarin/HacktoberfestAlgorithmsExercices/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SamuelBFavarin/HacktoberfestAlgorithmsExercices" />
