@@ -1,6 +1,8 @@
 ## Algorithms 👩‍💻
 
-We are developing Algorithms and Data Structures exercises to help people around the world improve their logic skills. In this repository you will be able to create and test your algorithms. 
+We are developing Algorithms and Data Structures exercises to help people around the world 🌎 improve their logic skills. In this repository you will be able to create and test your algorithms. 
+
+Also, you can enjoy the [Content Session](https://github.com/SamuelBFavarin/HacktoberfestAlgorithmsExercices/tree/main/content), where are available a lot of educational contents.
 
 
 
