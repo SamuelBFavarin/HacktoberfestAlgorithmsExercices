@@ -1,4 +1,7 @@
+import sys
 from typing import Match
+
+sys.path.append("..")
 from exercicies import medium
 from exercicies.medium import Medium
 
