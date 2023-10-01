@@ -6,7 +6,7 @@ class Easy:
     # return: 15
     def sum2Values(self, value1, value2):
         # paste your script here
-        return None
+        return value1 + value2
 
     # description: With a list of integers, if value is pair or divided by 5, multiply value by 2
     # enter parameter: l  = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
